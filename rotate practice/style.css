@@ -1,0 +1,23 @@
+
+
+.box1 {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    transition: all 0.5s;
+
+    /* display: inline; */
+}
+
+.box1:hover {
+    transition: all 0s;
+    transform: rotateY(20deg);
+    background-color: blueviolet;
+}
+
+.box2 {
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+    /* display: inline; */
+}
