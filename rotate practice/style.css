@@ -4,6 +4,7 @@
     width: 400px;
     height: 400px;
     background-color: red;
+    transform: rotateY(20deg);
     transition: all 0.5s;
 
     /* display: inline; */
@@ -11,7 +12,7 @@
 
 .box1:hover {
     transition: all 0s;
-    transform: rotateY(20deg);
+    transform: rotateY(40deg);
     background-color: blueviolet;
 }
 
