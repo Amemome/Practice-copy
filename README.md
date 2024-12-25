@@ -1,2 +1,2 @@
 # Practice-copy
-to copy projects to study css and js etc. implementation skills.
+by coping projects to study css and js etc. improve implementation skills.
